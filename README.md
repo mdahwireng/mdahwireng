@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdahwireng
 - 👀 I’m interested in Web Development, Data Science and GIS
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any beginer friendly open source project
+- 🌱 I’m currently a trainee at 10academy
+- 💞️ I’m looking to collaborate on any beginer friendly open source and Data Science project
 - 📫 You can reach me on kaaymike@hotmail.co.uk
 
 <!---
