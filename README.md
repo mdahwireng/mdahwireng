@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdahwireng
-- 👀 I’m interested in Web Development, Data Science and GIS
-- 🌱 I’m currently a trainee at 10academy
-- 💞️ I’m looking to collaborate on any beginer friendly open source and Data Science project
-- 📫 You can reach me on kaaymike@hotmail.co.uk
+- 👀 I’m interested in, Data Engineering and GIS
+- 🌱 I’m currently looking for a Data Engineering role
+- 💞️ I’m looking to collaborate on any open source
+- 📫 You can reach me on kaaymike@gmail.com
 
 <!---
 mdahwireng/mdahwireng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
