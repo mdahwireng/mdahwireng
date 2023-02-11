@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mdahwireng
 - 👀 I’m interested in, Data Engineering and GIS
-- 🌱 I’m currently looking for a Data Engineering role
 - 💞️ I’m looking to collaborate on any open source
 - 📫 You can reach me on kaaymyke@gmail.com
 
